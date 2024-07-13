@@ -1,7 +1,3 @@
-# web-scraping-projects
-
-Certainly! Here's a more detailed version of the questions and answers about data warehousing:
-
 ### 1-10: Basics of Data Warehousing
 
 1. **Q:** What is a data warehouse?  
