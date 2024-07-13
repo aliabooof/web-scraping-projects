@@ -4,7 +4,7 @@ Certainly! Here's a more detailed version of the questions and answers about dat
 
 ### 1-10: Basics of Data Warehousing
 
-1. **Q:** What is a data warehouse?
+1. **Q:** What is a data warehouse?  
    **A:** A data warehouse is a centralized repository for storing large volumes of data from multiple sources, optimized for query and analysis rather than for transaction processing. It consolidates historical and current data from various operational systems, providing a comprehensive view of business processes and supporting business intelligence activities.
 
 2. **Q:** What are the key characteristics of a data warehouse?
